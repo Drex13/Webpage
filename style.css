@@ -1,0 +1,20 @@
+body
+{
+  margin: 0cm;
+}
+
+.cover
+{
+  height:400px;
+  background-image:url(https://cdn.glitch.com/fe647926-a06f-4ed6-b2b2-a405f506537c%2Frsz_andre-hunter-ugjpgy2bqug-unsplash.jpg?v=1629572174245);
+  color:white;
+  background-size: cover;
+  background-position:center;
+  background-color:rgba(0,0,0,0.5);
+  background-blend-mode: darken;
+}
+
+.card{
+  border: 0 !important;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+}
